@@ -1,0 +1,8 @@
+.DS_Store
+notes/*
+.ipynb_checkpoints/*
+data/archive/*
+!data/archive/latest-*.csv
+covid.ipynb
+predict.ipynb
+analysis_scraps.ipynb

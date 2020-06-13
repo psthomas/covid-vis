@@ -1,0 +1,15 @@
+name: covid-vis
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - pandas
+  - notebook
+  - jupyter
+  - numpy
+  - vega
+  - qgrid
+  - altair
+  - matplotlib
+prefix: /Users/psthomas/miniconda3/envs/covid-vis
+
